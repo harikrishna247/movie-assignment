@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.movie-card {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.movie-card h3 {
+  margin-top: 0;
+  color: #222;
+}
+
+.movie-card p {
+  color: #555;
+}
